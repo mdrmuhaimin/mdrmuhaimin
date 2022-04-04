@@ -1,4 +1,7 @@
 ### Hi there 👋
+Here is my Github rating
+
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrmuhaimin)](https://github.com/mdrmuhaimin/github-readme-stats)
 
 <!--
 **mdrmuhaimin/mdrmuhaimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
