@@ -1,7 +1,7 @@
 ### Hi there 👋
+<!-- 
 Here is my Github rating
 
-<!-- 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrmuhaimin)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
